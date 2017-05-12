@@ -28,10 +28,18 @@
                                     <action selector="buttonClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ftK-vk-jZ5"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="New Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mFE-Fg-ShD">
+                                <rect key="frame" x="147" y="181" width="81" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="qdz-yJ-1WJ" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="jrp-Qw-HHr"/>
+                            <constraint firstItem="mFE-Fg-ShD" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="161" id="m6g-TK-VPf"/>
+                            <constraint firstItem="mFE-Fg-ShD" firstAttribute="centerX" secondItem="qdz-yJ-1WJ" secondAttribute="centerX" id="sfC-c7-WEn"/>
                             <constraint firstItem="qdz-yJ-1WJ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="tRb-aB-4et"/>
                         </constraints>
                     </view>
