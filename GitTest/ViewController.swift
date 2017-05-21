@@ -22,6 +22,8 @@ class ViewController: UIViewController {
     //added third brunch
     
     //fourth branch
+    
+    var v = "Some variable"
 
 }
 
