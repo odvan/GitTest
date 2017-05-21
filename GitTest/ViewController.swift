@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     
     var v = "Some variable"
     
-    let b = "Fifth branch"
+    let b = "Fifth"
 
 }
 
