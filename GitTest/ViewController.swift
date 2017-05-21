@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     //fourth branch
     
     var v = "Some variable"
+    
+    let b = "Fifth branch"
 
 }
 
