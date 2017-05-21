@@ -26,6 +26,8 @@ class ViewController: UIViewController {
     var v = "Some variable"
     
     let b = "Fifth kingdom"
+    
+    //added something
 
 }
 
